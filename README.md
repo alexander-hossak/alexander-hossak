@@ -5,11 +5,11 @@
 [![Kubestronaut](https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/alexander-hossak)
 
 <p>
-  <a href="https://www.credly.com/badges/2cc144f0-6d46-423c-97ad-705a55f5149c/public_url"><img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="90" alt="CKA" /></a>
-  <a href="https://www.credly.com/badges/30c458bc-6b55-40bc-ac16-dd406b9ecead/public_url"><img src="https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="90" alt="CKAD" /></a>
-  <a href="https://www.credly.com/badges/58d1a603-f08c-42eb-827f-a068c59361d0/public_url"><img src="https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="90" alt="CKS" /></a>
-  <a href="https://www.credly.com/badges/bc30db5f-c6b3-4474-a48c-e5587df6d78e/public_url"><img src="https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" width="90" alt="KCSA" /></a>
-  <a href="https://www.credly.com/badges/a04e166f-9d2c-4a08-9128-ce2662ef53ab/public_url"><img src="https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="90" alt="KCNA" /></a>
+  <a href="https://www.credly.com/badges/2cc144f0-6d46-423c-97ad-705a55f5149c/public_url"><img src="badges/cka.png" height="90" alt="CKA" /></a>
+  <a href="https://www.credly.com/badges/30c458bc-6b55-40bc-ac16-dd406b9ecead/public_url"><img src="badges/ckad.png" height="90" alt="CKAD" /></a>
+  <a href="https://www.credly.com/badges/58d1a603-f08c-42eb-827f-a068c59361d0/public_url"><img src="badges/cks.png" height="90" alt="CKS" /></a>
+  <a href="https://www.credly.com/badges/bc30db5f-c6b3-4474-a48c-e5587df6d78e/public_url"><img src="badges/kcsa.png" height="90" alt="KCSA" /></a>
+  <a href="https://www.credly.com/badges/a04e166f-9d2c-4a08-9128-ce2662ef53ab/public_url"><img src="badges/kcna.png" height="90" alt="KCNA" /></a>
 </p>
 
 ---
