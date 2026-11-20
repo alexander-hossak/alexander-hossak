@@ -2,6 +2,10 @@
 
 **Kubernetes platform & security engineer.** I build Kubernetes platforms that are secure by default, reproducible from code, and boring to operate.
 
+> Computing since I was 8 years old. The web and my ADHD did the rest.
+
+Over 30 years with computers, in professional IT since 2000. I know Linux, macOS and Windows inside out.
+
 [![Kubestronaut](https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/alexander-hossak)
 
 <p>
