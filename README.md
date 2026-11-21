@@ -6,9 +6,8 @@
 
 Over 30 years with computers, in professional IT since 2000. I know Linux, macOS and Windows inside out.
 
-[![Kubestronaut](https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/alexander-hossak)
-
 <p>
+  <a href="https://www.credly.com/badges/899bd55d-3cfd-4817-8c1c-5efa5f010024/public_url"><img src="badges/kubestronaut.png" height="90" alt="CNCF Kubestronaut" /></a>
   <a href="https://www.credly.com/badges/2cc144f0-6d46-423c-97ad-705a55f5149c/public_url"><img src="badges/cka.png" height="90" alt="CKA" /></a>
   <a href="https://www.credly.com/badges/30c458bc-6b55-40bc-ac16-dd406b9ecead/public_url"><img src="badges/ckad.png" height="90" alt="CKAD" /></a>
   <a href="https://www.credly.com/badges/58d1a603-f08c-42eb-827f-a068c59361d0/public_url"><img src="badges/cks.png" height="90" alt="CKS" /></a>
