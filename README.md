@@ -47,4 +47,11 @@ Over 30 years with computers, in professional IT since 2000. I know Linux, macOS
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/alexander-hossak) · [Credly](https://www.credly.com/users/alexander-hossak) · [certdirectory](https://certdirectory.io/profile/alexander-hossak)
+[LinkedIn](https://www.linkedin.com/in/alexander-hossak) · [Credly](https://www.credly.com/users/alexander-hossak) · [certdirectory](https://certdirectory.io/profile/frederik-hossak)
+
+<a href="https://certdirectory.io/profile/frederik-hossak?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/frederik-hossak.svg?style=card&theme=dark">
+    <img alt="Frederik C.A. Hossak on CertDirectory" src="https://certdirectory.io/badge/frederik-hossak.svg?style=card">
+  </picture>
+</a>
