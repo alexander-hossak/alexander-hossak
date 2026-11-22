@@ -57,13 +57,13 @@ I build Kubernetes platforms that are **secure by default, reproducible from cod
   <a href="https://certdirectory.io/profile/frederik-hossak?utm_source=github&utm_medium=readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/frederik-hossak.svg?style=card&theme=dark">
-      <img alt="Frederik C.A. Hossak on CertDirectory" src="https://certdirectory.io/badge/frederik-hossak.svg?style=card" height="190">
+      <img alt="Frederik C.A. Hossak on CertDirectory" src="https://certdirectory.io/badge/frederik-hossak.svg?style=card" height="160">
     </picture>
   </a>
   <a href="https://certdirectory.io/profile/frederik-hossak?tab=projects&utm_source=github&utm_medium=readme&utm_campaign=stack-card">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/stack/frederik-hossak.svg?theme=dark">
-      <img alt="Frederik C.A. Hossak's cloud-native stack" src="https://certdirectory.io/badge/stack/frederik-hossak.svg" height="190">
+      <img alt="Frederik C.A. Hossak's cloud-native stack" src="https://certdirectory.io/badge/stack/frederik-hossak.svg" height="160">
     </picture>
   </a>
 </p>
